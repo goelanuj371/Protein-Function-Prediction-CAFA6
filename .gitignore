@@ -1,0 +1,11 @@
+# Ignore Data Files (Too huge for GitHub)
+data_raw/
+data_processed/
+__pycache__/
+*.npy
+*.npz
+*.pkl
+*.zip
+
+# Ignore System Files
+.DS_Store
